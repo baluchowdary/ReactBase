@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+  height: 30px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+
+.card-body {
+  background-color: #6c757d;
+}
